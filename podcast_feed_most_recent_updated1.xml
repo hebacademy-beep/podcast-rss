@@ -12,7 +12,7 @@
   <copyright>האקדמיה ללשון העברית</copyright>
   <managingEditor>hesket@hebrew-academy.org.il (האקדמיה ללשון העברית)</managingEditor>
   <webMaster>hesket@hebrew-academy.org.il (האקדמיה ללשון העברית)</webMaster>
-  <atom:link href="https://hebacademy-beep.github.io/podcast-rss/podcast_feed_most_recent_updated1.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://ahl-site.s3.il-central-1.amazonaws.com/media-%2Bhebrew.academy.org.il/baim%2Bliyidey%2Bbitui/podcast_feed_most_recent_updated1.xml" rel="self" type="application/rss+xml"/>
   
   <!-- ADD THIS iTunes OWNER SECTION -->
   <itunes:owner>
@@ -49,26 +49,26 @@
     </item>
     <item>
       <title>עייפים לעייפה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/לעייפה-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A2%D7%99%D7%99%D7%A4%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>'לעייפה' פירושו 'עד כדי תשישות', ובהרחבה 'יותר מדי', 'מעבר לרצוי'. מניין קיבלנו את הביטוי הזה? מה משמעות המילה 'עייף' בלשון המקרא? ואיך אומרים בעברית ג'ט לג?
 
 לעייפה (פינה להאזנה)</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/לעייפה-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/לעייפה-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A2%D7%99%D7%99%D7%A4%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A2%D7%99%D7%99%D7%A4%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>עושים שמות ומפריחים נשמות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/עשה-שמות-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A9%D7%94-%D7%A9%D7%9E%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>'לעשות שַׁמּוֹת' פירושו להחריב או לגרום נזקים כבדים. מה משמעות המילה שַׁמּוֹת? כיצד מפריחים נְשַׁמּוֹת? ומי נוהג לעשות שמות בשדות תפוחי אדמה ובחלקת חיטי התוגרמה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/עשה-שמות-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/עשה-שמות-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A9%D7%94-%D7%A9%D7%9E%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A9%D7%94-%D7%A9%D7%9E%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>חדל אישים וקללות אחרות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדל-אישים-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%9C-%D7%90%D7%99%D7%A9%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>את הצירוף 'חדל אישים' ירשנו מספר ישעיהו. מה הם 'אישים'? מה הייתה צורת היחיד המקורית של 'אנשים'? ואיזה מבול של קללות הביאה עימה אימו החורגת של שלום עליכם הצעיר?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדל-אישים-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדל-אישים-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%9C-%D7%90%D7%99%D7%A9%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%9C-%D7%90%D7%99%D7%A9%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>על מורת רוח וקורת רוח</title>
@@ -87,824 +87,824 @@
     </item>
     <item>
       <title>חנוך לנער על פי דרכו</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0002-חנוך-לנער.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0002-%D7%97%D7%A0%D7%95%D7%9A-%D7%9C%D7%A0%D7%A2%D7%A8.mp3</link>
       <description>בבתי ספר רבים אפשר למצוא על הקירות את האמרה הידועה "חֲנֹךְ לַנַּעַר עַל פִּי דַרְכּוֹ". על פי השימוש המקובל בפסוק זה – לפנינו המלצה להתאים את החינוך לאופיו של הילד.
 אך לפי הבנה אחרת, ומשכנעת למדי, הכוונה דווקא לגיל שבו רצוי להתחיל את החינוך.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0002-חנוך-לנער.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0002-חנוך-לנער.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0002-%D7%97%D7%A0%D7%95%D7%9A-%D7%9C%D7%A0%D7%A2%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0002-%D7%97%D7%A0%D7%95%D7%9A-%D7%9C%D7%A0%D7%A2%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>רוב רובו – שיעור בהיגיון</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0003-רוב-רובם.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0003-%D7%A8%D7%95%D7%91-%D7%A8%D7%95%D7%91%D7%9D.mp3</link>
       <description>הביטוי 'רוב רובו' מציין בלשוננו רוב גדול, אבל מצד ההיגיון הוא מציין דווקא מספר קטן מן הרוב: רובו של הרוב ולא כולו.
 כיצד נוצרה המשמעות הרגילה בימינו? ולמה רוב רובנו איננו שמים לב לכשל הלוגי הזה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0003-רוב-רובם.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0003-רוב-רובם.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0003-%D7%A8%D7%95%D7%91-%D7%A8%D7%95%D7%91%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0003-%D7%A8%D7%95%D7%91-%D7%A8%D7%95%D7%91%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>חבל ארץ</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0004-חבל-ארץ.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0004-%D7%97%D7%91%D7%9C-%D7%90%D7%A8%D7%A5.mp3</link>
       <description>בימי התנ"ך השתמשו בחֶבֶל למדידה, ומשערים כי ממשמעות המדידה התפתחה במילה גם המשמעות 'אזור גאוגרפי' – שטח שנמדד בחבל. האם יש קשר גם לחבלי הלידה?
 ואיך נכון לומר – חֶבלי כביסה או חַבלי כביסה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0004-חבל-ארץ.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0004-חבל-ארץ.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0004-%D7%97%D7%91%D7%9C-%D7%90%D7%A8%D7%A5.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0004-%D7%97%D7%91%D7%9C-%D7%90%D7%A8%D7%A5.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>לא לעולם חוסן</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/לא-לעולם-חוסן-מוכן-264.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%90-%D7%9C%D7%A2%D7%95%D7%9C%D7%9D-%D7%97%D7%95%D7%A1%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-264.mp3</link>
       <description>הביטוי 'לא לעולם חוסן' מציין בלשוננו היום שעמדת הכוח איננה מובטחת לָנצח. ואולם במקור המקראי 'חוסן' פירושו 'אוצר', והביטוי נקשר דווקא לארעיותו של הרכוש. ומה הקשר למַחסן ולערבית?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/לא-לעולם-חוסן-מוכן-264.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/לא-לעולם-חוסן-מוכן-264.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%90-%D7%9C%D7%A2%D7%95%D7%9C%D7%9D-%D7%97%D7%95%D7%A1%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-264.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%90-%D7%9C%D7%A2%D7%95%D7%9C%D7%9D-%D7%97%D7%95%D7%A1%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-264.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>חיסון</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0006-חיסונים.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0006-%D7%97%D7%99%D7%A1%D7%95%D7%A0%D7%99%D7%9D.mp3</link>
       <description>את המילה 'חיסון' חידש הרופא ד"ר יצחק בן יוסף טובים במאמר שפרסם בשנת 1896 בכתב העת 'המליץ'. מה עומד ביסוד החידוש הלשוני הזה? ואילו מילים נוספות נוצרו בלשוננו בעקבותיו?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0006-חיסונים.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0006-חיסונים.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0006-%D7%97%D7%99%D7%A1%D7%95%D7%A0%D7%99%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0006-%D7%97%D7%99%D7%A1%D7%95%D7%A0%D7%99%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>חנוכה: נר ומנהרה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/2021-חנוכה.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/2021-%D7%97%D7%A0%D7%95%D7%9B%D7%94.mp3</link>
       <description>הנר, הנורה והמנורה מפיצים אור בחיינו, ובלשון מליצית – נְהָרָה. האם גם המנהרה קשורה אליהם? ומהו 'לשון סגי נהור'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/2021-חנוכה.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/2021-חנוכה.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/2021-%D7%97%D7%A0%D7%95%D7%9B%D7%94.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/2021-%D7%97%D7%A0%D7%95%D7%9B%D7%94.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>צידה לדרך</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0007-צידה-לדרך.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0007-%D7%A6%D7%99%D7%93%D7%94-%D7%9C%D7%93%D7%A8%D7%9A.mp3</link>
       <description>המילה 'צידה' והצירוף 'צידה לדרך' לקוחים מן המקרא. מה מקורם הלשוני? ואילו מילים נוצרו בעקבותיהם בעברית החדשה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0007-צידה-לדרך.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0007-צידה-לדרך.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0007-%D7%A6%D7%99%D7%93%D7%94-%D7%9C%D7%93%D7%A8%D7%9A.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0007-%D7%A6%D7%99%D7%93%D7%94-%D7%9C%D7%93%D7%A8%D7%9A.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>"מה יום מיומיים?"</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0008-יום-יומיים.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0008-%D7%99%D7%95%D7%9D-%D7%99%D7%95%D7%9E%D7%99%D7%99%D7%9D.mp3</link>
       <description>הביטוי "מה יום מיומיים" משונה למדי: הרי כוונתנו לשאול מה מיוחד ביום הזה משאר כל הימים, ולכן הגיוני יותר לשאול "מה יום מימים". ושמא זה היה הביטוי המקורי?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0008-יום-יומיים.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0008-יום-יומיים.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0008-%D7%99%D7%95%D7%9D-%D7%99%D7%95%D7%9E%D7%99%D7%99%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0008-%D7%99%D7%95%D7%9D-%D7%99%D7%95%D7%9E%D7%99%D7%99%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שבוע העברית: אות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/016-שבוע-הלשון-העברית-2021-1-א-ב.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/016-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-1-%D7%90-%D7%91.mp3</link>
       <description>אותיות הא'־ב' מוכרות לכל ילדה וילד, אך המילה 'אות' רגילה בלשוננו גם מחוץ ללוח הכתיבה. יש אות כבוד ואות הצטיינות, אות חיים ואות מצוקה, אות מורס, אות סִפְרָתִי (דיגיטלי), וגם 'אות ומופת'. ומה הקשר בין כל אלה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/016-שבוע-הלשון-העברית-2021-1-א-ב.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/016-שבוע-הלשון-העברית-2021-1-א-ב.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/016-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-1-%D7%90-%D7%91.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/016-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-1-%D7%90-%D7%91.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שבוע העברית: מילה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/017-שבוע-הלשון-העברית-2021-2-מילה.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/017-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-2-%D7%9E%D7%99%D7%9C%D7%94.mp3</link>
       <description>בלשוננו היום 'מילה' היא בעיקר יחידת הלשון בעלת המשמעות הקטנה ביותר. מה הייתה המשמעות המקורית של המילה 'מילה'? וכיצד קראו בעבר ליחידת הדיבור שאנו קוראים לה היום 'מילה'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/017-שבוע-הלשון-העברית-2021-2-מילה.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/017-שבוע-הלשון-העברית-2021-2-מילה.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/017-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-2-%D7%9E%D7%99%D7%9C%D7%94.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/017-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-2-%D7%9E%D7%99%D7%9C%D7%94.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שבוע העברית: מילים נרדפות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/018-שבוע-הלשון-העברית-2021-3-מילים-נרדפות.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/018-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-3-%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%A0%D7%A8%D7%93%D7%A4%D7%95%D7%AA.mp3</link>
       <description>העברית משופעת במילים נרדפות, אבל איש אינו רודף אחרי המילים האלה. מדובר במינוח דקדוקי שהתגלגל ללשוננו מן הערבית בימי הביניים.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/018-שבוע-הלשון-העברית-2021-3-מילים-נרדפות.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/018-שבוע-הלשון-העברית-2021-3-מילים-נרדפות.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/018-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-3-%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%A0%D7%A8%D7%93%D7%A4%D7%95%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/018-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-3-%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%A0%D7%A8%D7%93%D7%A4%D7%95%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שבוע העברית: שפה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/019-שבוע-הלשון-העברית-2021-4-לשון-עברית.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/019-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-4-%D7%9C%D7%A9%D7%95%D7%9F-%D7%A2%D7%91%D7%A8%D7%99%D7%AA.mp3</link>
       <description>'שפה' היא מילה נרדפת ל'לשון', וכמותה היא מבוססת על איבר בפה המשמש להפקת דיבור. שם האיבר שָׂפָה מצוי בביטויים שונים הקשורים לדיבור, ובהם 'לא העלה על דל שפתיו'. אך מהו בכלל 'דל שפתיו'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/019-שבוע-הלשון-העברית-2021-4-לשון-עברית.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/019-שבוע-הלשון-העברית-2021-4-לשון-עברית.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/019-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-4-%D7%9C%D7%A9%D7%95%D7%9F-%D7%A2%D7%91%D7%A8%D7%99%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/019-%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-2021-4-%D7%9C%D7%A9%D7%95%D7%9F-%D7%A2%D7%91%D7%A8%D7%99%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>"חמישה לחמש" – על רגעים ודקים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0009-דקה-דקים.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0009-%D7%93%D7%A7%D7%94-%D7%93%D7%A7%D7%99%D7%9D.mp3</link>
       <description>בציון השעה רגילים בפי רוב הדוברים ניסוחים כגון 'חמישה לחמש',  שבהם המספר המציין את הדקות בא דווקא בצורת זכר. ניסוחים אלו משקפים כנראה נוהגי לשון שהיו רגילים כאן בדורות קודמים.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0009-דקה-דקים.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0009-דקה-דקים.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0009-%D7%93%D7%A7%D7%94-%D7%93%D7%A7%D7%99%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0009-%D7%93%D7%A7%D7%94-%D7%93%D7%A7%D7%99%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ט"ו בשבט: יצא חוצץ</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0026-טו-בשבט-2022.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0026-%D7%98%D7%95-%D7%91%D7%A9%D7%91%D7%98-2022.mp3</link>
       <description>בשירו הידוע של ישראל דושמן 'השקדייה פורחת' נאמר בבית השני: "כל אחד ייטע פה עץ, באתים נצא חוצץ". מה פירוש הביטוי 'לצאת חוצץ'? ומה הקשר שלו לארבה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0026-טו-בשבט-2022.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0026-טו-בשבט-2022.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0026-%D7%98%D7%95-%D7%91%D7%A9%D7%91%D7%98-2022.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0026-%D7%98%D7%95-%D7%91%D7%A9%D7%91%D7%98-2022.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>הים התיכון</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/הים-התיכון-מוכן-563.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%99%D7%9D-%D7%94%D7%AA%D7%99%D7%9B%D7%95%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-563.mp3</link>
       <description>שלא כמילות השיר 'תחת שמי ים התיכון', מוטב לומר 'הים התיכון' – בדיוק כמו 'הים השחור'. איזו הצדקה אפשר למצוא בכל זאת לניסוח של שלמה ארצי? וכיצד נוצרה המילה תיכון?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/הים-התיכון-מוכן-563.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/הים-התיכון-מוכן-563.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%99%D7%9D-%D7%94%D7%AA%D7%99%D7%9B%D7%95%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-563.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%99%D7%9D-%D7%94%D7%AA%D7%99%D7%9B%D7%95%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-563.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>במצח נחושה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0012-במצח-נחושה.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0012-%D7%91%D7%9E%D7%A6%D7%97-%D7%A0%D7%97%D7%95%D7%A9%D7%94.mp3</link>
       <description>מדוע אומרים 'במצח נחוּשָׁה' ולא 'במצח נָחוּשׁ', והרי מֵצַח הוא זכר? ומדוע אדם נחוש נקרא נחוש?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0012-במצח-נחושה.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0012-במצח-נחושה.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0012-%D7%91%D7%9E%D7%A6%D7%97-%D7%A0%D7%97%D7%95%D7%A9%D7%94.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0012-%D7%91%D7%9E%D7%A6%D7%97-%D7%A0%D7%97%D7%95%D7%A9%D7%94.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>בני הנעורים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0013-בני-הנעורים.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0013-%D7%91%D7%A0%D7%99-%D7%94%D7%A0%D7%A2%D7%95%D7%A8%D7%99%D7%9D.mp3</link>
       <description>המילה נְעוּרִים שייכת לקבוצת המילים המכונה 'ריבוי תמידי' – כמו חיים, רחמים, אירוסים,  מעמקים, נְדוּדִים, גינונים ועוד. בלשון ימינו 'בני נעורים' הם נערים ונערות, אבל במקור המקראי הייתה לצירוף הזה משמעות שונה לגמרי.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0013-בני-הנעורים.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0013-בני-הנעורים.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0013-%D7%91%D7%A0%D7%99-%D7%94%D7%A0%D7%A2%D7%95%D7%A8%D7%99%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0013-%D7%91%D7%A0%D7%99-%D7%94%D7%A0%D7%A2%D7%95%D7%A8%D7%99%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>התחזית: רוח חרישית</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0014-רוח-חרישית.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0014-%D7%A8%D7%95%D7%97-%D7%97%D7%A8%D7%99%D7%A9%D7%99%D7%AA.mp3</link>
       <description>בימינו 'רוח חרישית' היא רוח קלילה ושקטה, אך משמעות הצירוף במקורו המקראי שנויה במחלוקת. לפי אחת הדעות מדובר דווקא ברוח סערה עזה וחזקה, רוח מחרישת אוזניים.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0014-רוח-חרישית.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0014-רוח-חרישית.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0014-%D7%A8%D7%95%D7%97-%D7%97%D7%A8%D7%99%D7%A9%D7%99%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0014-%D7%A8%D7%95%D7%97-%D7%97%D7%A8%D7%99%D7%A9%D7%99%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>מתחת לכל ביקורת</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0010-מתחת-לכל-ביקורת.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0010-%D7%9E%D7%AA%D7%97%D7%AA-%D7%9C%D7%9B%D7%9C-%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA.mp3</link>
       <description>אזהרה: הפעם הפינה היא מתחת לכל ביקורת! מאיזו שפה ירשנו את הביטוי הזה ומה הקשר לבתי הספר "חביב" בראשון לציון של ראשית המאה העשרים?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0010-מתחת-לכל-ביקורת.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0010-מתחת-לכל-ביקורת.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0010-%D7%9E%D7%AA%D7%97%D7%AA-%D7%9C%D7%9B%D7%9C-%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0010-%D7%9E%D7%AA%D7%97%D7%AA-%D7%9C%D7%9B%D7%9C-%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>נחת רוח ונחת זרוע</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/נחת-רוח-ונחת-זרוע.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%97%D7%AA-%D7%A8%D7%95%D7%97-%D7%95%D7%A0%D7%97%D7%AA-%D7%96%D7%A8%D7%95%D7%A2.mp3</link>
       <description>אם למישהו יש נחת רוח ממישהו אחר, לא סביר שהוא ירצה להראות לו את נחת זרועו. המילה 'נחת' אומנם משותפת לשני הביטויים, אך לאמיתו של דבר מדובר בשתי מילים שונות, שרק במקרה זהות בצורתן.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/נחת-רוח-ונחת-זרוע.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/נחת-רוח-ונחת-זרוע.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%97%D7%AA-%D7%A8%D7%95%D7%97-%D7%95%D7%A0%D7%97%D7%AA-%D7%96%D7%A8%D7%95%D7%A2.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%97%D7%AA-%D7%A8%D7%95%D7%97-%D7%95%D7%A0%D7%97%D7%AA-%D7%96%D7%A8%D7%95%D7%A2.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>יעמדו על הברכה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0022-יבואו-על-הברכה.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0022-%D7%99%D7%91%D7%95%D7%90%D7%95-%D7%A2%D7%9C-%D7%94%D7%91%D7%A8%D7%9B%D7%94.mp3</link>
       <description>האם נכון לומר לומר "יעמדו על הברכה" או "יבואו על הברכה"? ומה הקשר להר גריזים והר עיבל?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0022-יבואו-על-הברכה.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0022-יבואו-על-הברכה.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0022-%D7%99%D7%91%D7%95%D7%90%D7%95-%D7%A2%D7%9C-%D7%94%D7%91%D7%A8%D7%9B%D7%94.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0022-%D7%99%D7%91%D7%95%D7%90%D7%95-%D7%A2%D7%9C-%D7%94%D7%91%D7%A8%D7%9B%D7%94.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פורים: משלוח מנות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0028-פורים-2022-מקוצר.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0028-%D7%A4%D7%95%D7%A8%D7%99%D7%9D-2022-%D7%9E%D7%A7%D7%95%D7%A6%D7%A8.mp3</link>
       <description>אנחנו רגילים לכנות בשם משלוח מנות את מארז המטעמים הניתן בחג הפורים, ואולם המשמעות המקורית של 'משלוח מנות' היא פשוט שליחת מנות.
 
 בהקשר של איזה חג נוסף מסופר בתנ"ך על שליחת מנות? ומה הקשר למסחר בבורסה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0028-פורים-2022-מקוצר.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0028-פורים-2022-מקוצר.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0028-%D7%A4%D7%95%D7%A8%D7%99%D7%9D-2022-%D7%9E%D7%A7%D7%95%D7%A6%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0028-%D7%A4%D7%95%D7%A8%D7%99%D7%9D-2022-%D7%9E%D7%A7%D7%95%D7%A6%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שנת תרפפו</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0024-תרפפו.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0024-%D7%AA%D7%A8%D7%A4%D7%A4%D7%95.mp3</link>
       <description>שנת תרפפו נשמעת כמו שנת תש"ח או תרל"ח,  אך מקורה אינו בגימטרייה של שנים אלא בספרדית היהודית. מה פירוש תרפפו? ומה הקשר למתושלח, לאנטיוכוס ולרופא העיניים הירושלמי הנודע?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0024-תרפפו.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0024-תרפפו.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0024-%D7%AA%D7%A8%D7%A4%D7%A4%D7%95.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0024-%D7%AA%D7%A8%D7%A4%D7%A4%D7%95.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פח אשפה וסלט פירות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0023-פח-אשפה-וסלט-פירות.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0023-%D7%A4%D7%97-%D7%90%D7%A9%D7%A4%D7%94-%D7%95%D7%A1%D7%9C%D7%98-%D7%A4%D7%99%D7%A8%D7%95%D7%AA.mp3</link>
       <description>האם פח האשפה חייב להיות עשוי מפח? ומה הכשל הלוגי בצירוף 'סלט פירות'? על מילים וביטויים המשמרים מציאות חיים אחרת – בעברית וגם בלשונות אחרות.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0023-פח-אשפה-וסלט-פירות.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0023-פח-אשפה-וסלט-פירות.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0023-%D7%A4%D7%97-%D7%90%D7%A9%D7%A4%D7%94-%D7%95%D7%A1%D7%9C%D7%98-%D7%A4%D7%99%D7%A8%D7%95%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0023-%D7%A4%D7%97-%D7%90%D7%A9%D7%A4%D7%94-%D7%95%D7%A1%D7%9C%D7%98-%D7%A4%D7%99%D7%A8%D7%95%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שתי וערב</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0029-שתי-וערב.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0029-%D7%A9%D7%AA%D7%99-%D7%95%D7%A2%D7%A8%D7%91.mp3</link>
       <description>'חקירת שתי וערב' היא חקירה מדוקדקת מכיוונים שונים. כמוה גם 'חקירה צולבת' – כצורת הצלב העשוי שתי וערב. מה פירוש המילים 'שתי' ו'ערב'? ומה הקשר לאבן השתייה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0029-שתי-וערב.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0029-שתי-וערב.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0029-%D7%A9%D7%AA%D7%99-%D7%95%D7%A2%D7%A8%D7%91.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0029-%D7%A9%D7%AA%D7%99-%D7%95%D7%A2%D7%A8%D7%91.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פסח: מדברים ביציאת מצרים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ערב-פסח-ראשון-140422.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A8%D7%91-%D7%A4%D7%A1%D7%97-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-140422.mp3</link>
       <description>בכל דור ודור אנחנו יושבים לשולחן הסדר וקוראים בהגדה, ומשנה לשנה זוכרים בעל פה את הפסוקים, המדרשים והשירים. אין פלא אפוא שסיפור יציאת מצרים וההגדה של פסח הולידו מילים וביטויים המשמשים אותנו בכל ימות השנה.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ערב-פסח-ראשון-140422.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ערב-פסח-ראשון-140422.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A8%D7%91-%D7%A4%D7%A1%D7%97-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-140422.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A8%D7%91-%D7%A4%D7%A1%D7%97-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-140422.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שביעי של פסח: קריעת ים סוף</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0031-שביעי-של-פסח-210422.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0031-%D7%A9%D7%91%D7%99%D7%A2%D7%99-%D7%A9%D7%9C-%D7%A4%D7%A1%D7%97-210422.mp3</link>
       <description>לפי המסורת היהודית בשביעי של פסח אירע נס קריעת ים סוף. אבל אם נעיין בסיפור הנס שבתורה, נגלה שהמילה קריעה כלל אינה נזכרת בו. איך מתואר הנס הזה במקרא? מדוע התקבע בלשוננו דווקא הצירוף 'קריעת ים סוף'? ומה הקשר לגזר?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0031-שביעי-של-פסח-210422.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0031-שביעי-של-פסח-210422.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0031-%D7%A9%D7%91%D7%99%D7%A2%D7%99-%D7%A9%D7%9C-%D7%A4%D7%A1%D7%97-210422.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0031-%D7%A9%D7%91%D7%99%D7%A2%D7%99-%D7%A9%D7%9C-%D7%A4%D7%A1%D7%97-210422.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>אי תנועה ואיים אחרים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0036-איים.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0036-%D7%90%D7%99%D7%99%D7%9D.mp3</link>
       <description>האם אי תנועה הוא כמו אי בים או כמו אי־צדק? מה פירוש השם המקראי איזבל, ואיך (אולי) קראו לחתולים בתקופת התנ"ך?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0036-איים.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0036-איים.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0036-%D7%90%D7%99%D7%99%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0036-%D7%90%D7%99%D7%99%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ל"ג בעומר: הסקה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0037-לג-בעומר-2022.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0037-%D7%9C%D7%92-%D7%91%D7%A2%D7%95%D7%9E%D7%A8-2022.mp3</link>
       <description>ההסקה וגם המסוק קשורים אל הפועל הארמי סְלֵק שפירושו 'עלה'. מה הקשר לביטוי הארמי 'סלקא דעתך'? ומה המסקנה מכל זה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0037-לג-בעומר-2022.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0037-לג-בעומר-2022.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0037-%D7%9C%D7%92-%D7%91%D7%A2%D7%95%D7%9E%D7%A8-2022.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0037-%D7%9C%D7%92-%D7%91%D7%A2%D7%95%D7%9E%D7%A8-2022.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>יום ירושלים: עיר הבירה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0038-יום-ירושלים-2022.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0038-%D7%99%D7%95%D7%9D-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-2022.mp3</link>
       <description>ירושלים היא עיר הבירה של ישראל. הצירוף "עיר בירה" חדש הוא, אך רכיביו עתיקי יומין. מה הייתה המשמעות המקורית של המילה "בירה"? וכיצד נקראו ערי בירה בעברית לפני שהן נקראו "ערי בירה"?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0038-יום-ירושלים-2022.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0038-יום-ירושלים-2022.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0038-%D7%99%D7%95%D7%9D-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-2022.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0038-%D7%99%D7%95%D7%9D-%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-2022.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שבועות: מגל וחרמש</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0040-שבועות-2022.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0040-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA-2022.mp3</link>
       <description>כולנו מכירים את שמות הכלים העתיקים ששימשו לקציר: מגל וחרמש. בעברית בת ימינו ההבדל ביניהם ברור, אך מתברר שלא תמיד היה כך. איך אפשר להוכיח זאת משיר של דויד ברוזה? ומהו "קְצַרְדָּשׁ עַצְמוֹנָע"?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0040-שבועות-2022.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0040-שבועות-2022.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0040-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA-2022.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0040-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA-2022.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>צירופי לשון מתקופת ההשכלה והתחייה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0030-צירופים-מתקופת-ההשכלה-חדש.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0030-%D7%A6%D7%99%D7%A8%D7%95%D7%A4%D7%99%D7%9D-%D7%9E%D7%AA%D7%A7%D7%95%D7%A4%D7%AA-%D7%94%D7%94%D7%A9%D7%9B%D7%9C%D7%94-%D7%97%D7%93%D7%A9.mp3</link>
       <description>מושגים רבים בלשוננו מובעים בצירוף מילים: 'עורך דין', 'הר געש', 'פסי האטה' ועוד. אך צירופים אלו הם כאין וכאפס לעומת הצירופים היצירתיים שנהגו בלשוננו בתקופת ההשכלה והתחיה, ובהם 'כסף חי', 'נשים באוהל' ו'באר מתזת מימיה למרום'.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0030-צירופים-מתקופת-ההשכלה-חדש.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0030-צירופים-מתקופת-ההשכלה-חדש.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0030-%D7%A6%D7%99%D7%A8%D7%95%D7%A4%D7%99%D7%9D-%D7%9E%D7%AA%D7%A7%D7%95%D7%A4%D7%AA-%D7%94%D7%94%D7%A9%D7%9B%D7%9C%D7%94-%D7%97%D7%93%D7%A9.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0030-%D7%A6%D7%99%D7%A8%D7%95%D7%A4%D7%99%D7%9D-%D7%9E%D7%AA%D7%A7%D7%95%D7%A4%D7%AA-%D7%94%D7%94%D7%A9%D7%9B%D7%9C%D7%94-%D7%97%D7%93%D7%A9.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>יוצאים מהבית</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/06/0031-צרופי-מילים-חדש.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/06/0031-%D7%A6%D7%A8%D7%95%D7%A4%D7%99-%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%97%D7%93%D7%A9.mp3</link>
       <description>בית קפה, בית מרקחת ובית קולנוע הם כולם בניינים של ממש. אך בתקופת ההשכלה שימשה בלשוננו המילה 'בית' שימוש חופשי בהרבה: אם לציון חדרים – כגון בית מבשלים, ואם לציון פריטי לבוש ואביזרים – כגון בתי עיניים.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/06/0031-צרופי-מילים-חדש.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/06/0031-צרופי-מילים-חדש.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/06/0031-%D7%A6%D7%A8%D7%95%D7%A4%D7%99-%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%97%D7%93%D7%A9.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/06/0031-%D7%A6%D7%A8%D7%95%D7%A4%D7%99-%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%97%D7%93%D7%A9.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>אמונה תפלה או טפלה?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0034-אמונה-תפלה.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0034-%D7%90%D7%9E%D7%95%D7%A0%D7%94-%D7%AA%D7%A4%D7%9C%D7%94.mp3</link>
       <description>תָּפֵל בתי"ו פירושו 'חסר מלח', ואילו טָפֵל בטי"ת הוא 'נספח' ו'צדדי' – כמוכר מן הצמד 'עיקר וטפל'. לאיזה מהם קשורה האמונה? ואיזו טעות בתרגום מגרמנית עומדת כנראה ביסודו של הביטוי?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0034-אמונה-תפלה.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0034-אמונה-תפלה.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0034-%D7%90%D7%9E%D7%95%D7%A0%D7%94-%D7%AA%D7%A4%D7%9C%D7%94.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0034-%D7%90%D7%9E%D7%95%D7%A0%D7%94-%D7%AA%D7%A4%D7%9C%D7%94.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>התפלת מים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0035-התפלת-מים.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0035-%D7%94%D7%AA%D7%A4%D7%9C%D7%AA-%D7%9E%D7%99%D7%9D.mp3</link>
       <description>המילה הַתְפָּלָה הצליחה לעורר הן את התנגדותו של דוד בן־גוריון הן את התנגדותה של מליאת האקדמיה ללשון העברית. על מה יצא הקצף? ואיזה מונח חלופי יכול לשמש לזה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0035-התפלת-מים.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0035-התפלת-מים.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0035-%D7%94%D7%AA%D7%A4%D7%9C%D7%AA-%D7%9E%D7%99%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0035-%D7%94%D7%AA%D7%A4%D7%9C%D7%AA-%D7%9E%D7%99%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>מתי מעט</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0041-מתי-מעט.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0041-%D7%9E%D7%AA%D7%99-%D7%9E%D7%A2%D7%98.mp3</link>
       <description>מה מציינת המילה 'מתים' שבצירוף 'מתי מעט' והאם המתים האלה יכולים להיות חיים? ומה פירוש השמות המקראיים מְתוּשָׁאֵל וּמְתוּשֶׁלַח?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0041-מתי-מעט.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0041-מתי-מעט.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0041-%D7%9E%D7%AA%D7%99-%D7%9E%D7%A2%D7%98.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0041-%D7%9E%D7%AA%D7%99-%D7%9E%D7%A2%D7%98.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>לא דובים ולא יער</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0042-לא-דובים-ולא-יער.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0042-%D7%9C%D7%90-%D7%93%D7%95%D7%91%D7%99%D7%9D-%D7%95%D7%9C%D7%90-%D7%99%D7%A2%D7%A8.mp3</link>
       <description>סיפור קשה בספר מלכים ומחלוקת תלמודית מפתיעה בעניינו הולידו ביטוי רווח בלשוננו. האומנם מרוב דובים לא רואים את היער? ומי צירף לדובים את הזבובים?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0042-לא-דובים-ולא-יער.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0042-לא-דובים-ולא-יער.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0042-%D7%9C%D7%90-%D7%93%D7%95%D7%91%D7%99%D7%9D-%D7%95%D7%9C%D7%90-%D7%99%D7%A2%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0042-%D7%9C%D7%90-%D7%93%D7%95%D7%91%D7%99%D7%9D-%D7%95%D7%9C%D7%90-%D7%99%D7%A2%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פרת משה רבנו</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0043-פרת-משה-רבנו.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0043-%D7%A4%D7%A8%D7%AA-%D7%9E%D7%A9%D7%94-%D7%A8%D7%91%D7%A0%D7%95.mp3</link>
       <description>"פרת משה רבנו בקול התאוננה, שיש לה שם כזה ארוך והיא הרי קטנה…". איך זכתה החיפושית הקטנטנה בשם כה ארוך ומסובך? באילו עוד קדושים היא נקשרה? וכמה נקודות יש לה על הגב?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0043-פרת-משה-רבנו.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0043-פרת-משה-רבנו.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0043-%D7%A4%D7%A8%D7%AA-%D7%9E%D7%A9%D7%94-%D7%A8%D7%91%D7%A0%D7%95.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0043-%D7%A4%D7%A8%D7%AA-%D7%9E%D7%A9%D7%94-%D7%A8%D7%91%D7%A0%D7%95.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>תשעה באב: מילים וביטויים ממגילת איכה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0046-תשעה-באב.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0046-%D7%AA%D7%A9%D7%A2%D7%94-%D7%91%D7%90%D7%91.mp3</link>
       <description>מגילת איכה, הנקראת בבתי הכנסת בליל תשעה באב, היא קובץ של קינות על החורבן וגם מקור לכמה מילים וביטויים השגורים בלשוננו עד היום: 'הפוגה', 'ירד פלאים', 'חדשים לבקרים', 'נפלה עטרת ראשנו' ועוד.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0046-תשעה-באב.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0046-תשעה-באב.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0046-%D7%AA%D7%A9%D7%A2%D7%94-%D7%91%D7%90%D7%91.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0046-%D7%AA%D7%A9%D7%A2%D7%94-%D7%91%D7%90%D7%91.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ט"ו באב: מי מתחתנים?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0047-טו-באב.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0047-%D7%98%D7%95-%D7%91%D7%90%D7%91.mp3</link>
       <description>"אתה חושב שאתה מתחתן עם הבת שלי, אבל בעצם אתה מתחתן איתי", חייך הרב אל הארוס הטרי במסיבת האירוסין של בתו. איזה גלגול משמעות עבר הפועל 'להתחתן' ומה הקשר לחותנת?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0047-טו-באב.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0047-טו-באב.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0047-%D7%98%D7%95-%D7%91%D7%90%D7%91.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0047-%D7%98%D7%95-%D7%91%D7%90%D7%91.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>גמל שלמה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0044-גמל-שלמה.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0044-%D7%92%D7%9E%D7%9C-%D7%A9%D7%9C%D7%9E%D7%94.mp3</link>
       <description>מה הקשר בין החרק הטורף לחנוכת המקדש? האם לפנינו סוס או גמל? איך אומרים "גמל שלמה בנקבה, ולמה כנראה לא כדאי לנו להיות בני הזוג של הנקבה הזאת?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0044-גמל-שלמה.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0044-גמל-שלמה.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0044-%D7%92%D7%9E%D7%9C-%D7%A9%D7%9C%D7%9E%D7%94.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0044-%D7%92%D7%9E%D7%9C-%D7%A9%D7%9C%D7%9E%D7%94.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שמואל את שמואל</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0048-שמואל-את-שמואל.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0048-%D7%A9%D7%9E%D7%95%D7%90%D7%9C-%D7%90%D7%AA-%D7%A9%D7%9E%D7%95%D7%90%D7%9C.mp3</link>
       <description>'שמואל את שמואל', 'דוד את מאיר', 'בייגל את בייגל' – מה פשר המילה 'את' בשמות מסחריים כאלה? האם לפנינו מבנה מקראי משובח או מילה לטינית בתחפושת?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0048-שמואל-את-שמואל.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0048-שמואל-את-שמואל.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0048-%D7%A9%D7%9E%D7%95%D7%90%D7%9C-%D7%90%D7%AA-%D7%A9%D7%9E%D7%95%D7%90%D7%9C.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0048-%D7%A9%D7%9E%D7%95%D7%90%D7%9C-%D7%90%D7%AA-%D7%A9%D7%9E%D7%95%D7%90%D7%9C.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>המלחמה על שמות ימות השבוע</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0050-ימות-השבוע.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0050-%D7%99%D7%9E%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2.mp3</link>
       <description>בלשונות אירופה ימות השבוע נקשרים לגרמי השמיים ולאלים. עם תחיית העברית היו שסברו שלא ייתכן שבאומה מתוקנת יישאו ימות השבוע שמות טכניים כמו 'ראשון' ו'שני', והיו להם הצעות חלופיות מעניינות מאוד.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0050-ימות-השבוע.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0050-ימות-השבוע.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0050-%D7%99%D7%9E%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0050-%D7%99%D7%9E%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>לרכוש ולרחוש</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0049-לרכוש-לרחוש.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0049-%D7%9C%D7%A8%D7%9B%D7%95%D7%A9-%D7%9C%D7%A8%D7%97%D7%95%D7%A9.mp3</link>
       <description>בימינו רוב הישראלים הוגים כ' רפה וח' באותו האופן, ומכאן הבלבול בין ביטויים כגון 'רחש כבוד' ו'רכש את אמונו'. נעשה אפוא מעט סדר, וגם נראה מה הקשר ל'מרחשת' ול'לחש רחש'.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0049-לרכוש-לרחוש.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0049-לרכוש-לרחוש.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0049-%D7%9C%D7%A8%D7%9B%D7%95%D7%A9-%D7%9C%D7%A8%D7%97%D7%95%D7%A9.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0049-%D7%9C%D7%A8%D7%9B%D7%95%D7%A9-%D7%9C%D7%A8%D7%97%D7%95%D7%A9.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ותו לא ולא בכדי</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0051-ותו-לא.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/0051-%D7%95%D7%AA%D7%95-%D7%9C%D7%90.mp3</link>
       <description>מה פירוש המילה 'תוּ' שבצירוף 'ותו לא'? איזו טעות הגייה עושים כמעט כל הדוברים בצירוף הזה? ומה הקשר לצירוף 'לא בכדי'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0051-ותו-לא.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0051-ותו-לא.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/0051-%D7%95%D7%AA%D7%95-%D7%9C%D7%90.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/0051-%D7%95%D7%AA%D7%95-%D7%9C%D7%90.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>תכלה שנה וקללותיה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ראש-השנה-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>שני מטבעות הלשון – "תכלה שנה וקללותיה" ו"תחל שנה וברכותיה" – באים בפיוט הנודע 'אחות קטנה' הנאמר בליל ראש השנה בקהילות רבות. אומנם בפיוט הם מוכרים זה לצד זה, אך לידתם במקומות שונים.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ראש-השנה-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ראש-השנה-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>יום הכיפורים: סליחה ומחילה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/סליחה-ומחילה-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%9C%D7%99%D7%97%D7%94-%D7%95%D7%9E%D7%97%D7%99%D7%9C%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>המילה 'סליחה' רגילה מאוד בחיי היום־יום שלנו – אם בהתנצלויות של ממש ואם בפניות דוגמת "סליחה, מה השעה?". אך רק בימי הביניים החלו בני אדם לסלוח, לעומת לשון המקורות שבה הייתה פעולת הסליחה נחלת האל לבדו. ומניין קיבלנו את המחילה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/סליחה-ומחילה-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/סליחה-ומחילה-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%9C%D7%99%D7%97%D7%94-%D7%95%D7%9E%D7%97%D7%99%D7%9C%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%9C%D7%99%D7%97%D7%94-%D7%95%D7%9E%D7%97%D7%99%D7%9C%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>סוכות: חג שמח ומועדים לשמחה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/מועדים-לשמחה-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%95%D7%A2%D7%93%D7%99%D7%9D-%D7%9C%D7%A9%D7%9E%D7%97%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>בשנת תרפ"ח, 1928, פרסם ועד הלשון העברית רשימה בשם בְּרָכוֹת וּבִטּוּיֵי נִמּוּס. ברשימה זו איננו מוצאים את הברכה המוכרת 'חג שמח', אלא שתי ברכות אחרות: 'מועדים לשמחה' ו'תזכו לשנים רבות'. מה מקורן של ברכות אלו? ומדוע התחלנו לאחל 'חג שמח'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/מועדים-לשמחה-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/מועדים-לשמחה-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%95%D7%A2%D7%93%D7%99%D7%9D-%D7%9C%D7%A9%D7%9E%D7%97%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%95%D7%A2%D7%93%D7%99%D7%9D-%D7%9C%D7%A9%D7%9E%D7%97%D7%94-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ניבים לחג האסיף (לזכר ד"ר ניסן נצר)</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/סוכות-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%95%D7%9B%D7%95%D7%AA-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>מה מקור הצירוף 'ראשו ורובו'? מהי 'הושענא חבוטה'? מה עושים באתרוגים אחרי החג, ומה הקשר לפוליטיקה הישראלית?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/סוכות-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/סוכות-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%95%D7%9B%D7%95%D7%AA-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%95%D7%9B%D7%95%D7%AA-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>על כרכומים ופנים מכורכמים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/נתכרכמו-פניו-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%AA%D7%9B%D7%A8%D7%9B%D7%9E%D7%95-%D7%A4%D7%A0%D7%99%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>החלפת צבע הפנים יכולה להעיד על מצבו הפיזי של האדם או על רגשותיו. על מי שמבייש את חברו אומרים שהוא 'הלבין את פניו', ועל מי ששרוי בצער – 'השחירו פניו כשולי קדרה'. ואיזה צבע יש למי ש'נתכרכמו פניו'?
 
 
 
 *הערה: ההגייה הנכונה היא "צְהוּבִים זה לזה" – בבי"ת רפה, ולא כמו שאמרנו בטעות.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/נתכרכמו-פניו-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/נתכרכמו-פניו-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%AA%D7%9B%D7%A8%D7%9B%D7%9E%D7%95-%D7%A4%D7%A0%D7%99%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%AA%D7%9B%D7%A8%D7%9B%D7%9E%D7%95-%D7%A4%D7%A0%D7%99%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>על קפיצת הדרך</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/קפיצת-הדרך-מוכן-לשידור-.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A7%D7%A4%D7%99%D7%A6%D7%AA-%D7%94%D7%93%D7%A8%D7%9A-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3</link>
       <description>הביטוי 'קפיצת הדרך' מצטייר בעיני רוחם של רבים כהתקדמות בצעדי ענק או בטיסה מהירה – כאילו ההולך קופץ ממקום למקום. אך את הביטוי המקורי שבספרות חז"ל מקובל יותר לפרש בדרך אחרת לגמרי.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/קפיצת-הדרך-מוכן-לשידור-.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/קפיצת-הדרך-מוכן-לשידור-.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A7%D7%A4%D7%99%D7%A6%D7%AA-%D7%94%D7%93%D7%A8%D7%9A-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A7%D7%A4%D7%99%D7%A6%D7%AA-%D7%94%D7%93%D7%A8%D7%9A-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>משוא פנים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/משוא-פנים-מוכן-לשידור-.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%A9%D7%95%D7%90-%D7%A4%D7%A0%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3</link>
       <description>איך נכון לומר – מַשוא פנים או מְשוא פנים? מה הציור העומד בבסיס הביטוי הזה? ומה הקשר ליהוא מלך ישראל, ליהושפט מלך יהודה ולברכת הכוהנים?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/משוא-פנים-מוכן-לשידור-.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/משוא-פנים-מוכן-לשידור-.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%A9%D7%95%D7%90-%D7%A4%D7%A0%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%A9%D7%95%D7%90-%D7%A4%D7%A0%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שצף קצף</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/בשצף-קצף-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A9%D7%A6%D7%A3-%D7%A7%D7%A6%D7%A3-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>הביטוי הנבואי ששימש במקור לתיאור של כעס – קטן או גדול, התגלגל לימים אל תיאורי הטבע של זרימת נחלים, ואף היה השראה לציור מרנין במיוחד של העיר תל־אביב באחד משיריה היפים של נעמי שמר.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/בשצף-קצף-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/בשצף-קצף-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A9%D7%A6%D7%A3-%D7%A7%D7%A6%D7%A3-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A9%D7%A6%D7%A3-%D7%A7%D7%A6%D7%A3-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>הסחת דעת</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/הסחת-דעת-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A1%D7%97%D7%AA-%D7%93%D7%A2%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>הביטוי המחודש 'הסחת דעת' מבוסס על ביטויים דומים מספרות חז"ל: 'הסיח דעתו' ו'בהיסח הדעת'. אבל מהי בכלל 'הסחה'? והאם ייתכן קשר לביטוי אחר מלשון חכמים  – 'הסיע מליבו'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/הסחת-דעת-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/הסחת-דעת-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A1%D7%97%D7%AA-%D7%93%D7%A2%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A1%D7%97%D7%AA-%D7%93%D7%A2%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>חלומות באספמיה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/חולם-בספרדית-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%95%D7%9C%D7%9D-%D7%91%D7%A1%D7%A4%D7%A8%D7%93%D7%99%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>בלשון ימינו 'חלומות באספמיה' הם 'חלומות שווא', 'שאיפות לא מציאותיות'. אבל במקור הייתה לביטוי הזה הוראה אחרת, ולשם כך נחלום בספרדית.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/חולם-בספרדית-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/חולם-בספרדית-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%95%D7%9C%D7%9D-%D7%91%D7%A1%D7%A4%D7%A8%D7%93%D7%99%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%95%D7%9C%D7%9D-%D7%91%D7%A1%D7%A4%D7%A8%D7%93%D7%99%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>קפד ראשו</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/קפד-ראשו-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A7%D7%A4%D7%93-%D7%A8%D7%90%D7%A9%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>מותר לפעמים לאבד את הראש – גם אם אתם צירופים מילים. כך בדיוק נוצרו בעברית בת ימינו המונחים 'גלויה', 'תחתונים', 'חצאית', 'צוללת' ו'מכונית'.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/קפד-ראשו-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/קפד-ראשו-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A7%D7%A4%D7%93-%D7%A8%D7%90%D7%A9%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A7%D7%A4%D7%93-%D7%A8%D7%90%D7%A9%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>זעום וזעיר</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/זעום-וזעיר-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%96%D7%A2%D7%95%D7%9D-%D7%95%D7%96%D7%A2%D7%99%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>מדוע דבר קטן וּפָעוּט מכונה 'זעום'? לאיזו מילה קרובה המילה זָעִיר? ומה הקשר לנביא מיכה ולספרות ההשכלה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/זעום-וזעיר-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/זעום-וזעיר-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%96%D7%A2%D7%95%D7%9D-%D7%95%D7%96%D7%A2%D7%99%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%96%D7%A2%D7%95%D7%9D-%D7%95%D7%96%D7%A2%D7%99%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>בית קברות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/בית-קברות-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%AA-%D7%A7%D7%91%D7%A8%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>לצערנו כולנו רגילים לצירוף 'בית קברות', ואולי משום כך איננו שמים לב שיש בו משהו מוזר: צורת הרבים הרגילה של 'קֶבֶר' היא 'קְבָרִים'; אם כן מדוע אנו אומרים 'בית קברות' ולא 'בית קברים'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/בית-קברות-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/בית-קברות-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%AA-%D7%A7%D7%91%D7%A8%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%AA-%D7%A7%D7%91%D7%A8%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>חנוכה: פך השמן ופכים קטנים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/כד-קטן-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%93-%D7%A7%D7%98%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>אילו היו המכבים מוצאים "פח שמן" – כנראה היה השמן מספיק מראש לשמונה ימים. אבל הם מצאו 'פך שמן', בכ"ף, שזו כמובן מילה אחרת לגמרי. מה צורת הרבים של 'פך'? מה הקשר ליעקב אבינו? ומה משותף למילים 'פך' ו'בקבוק'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/כד-קטן-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/כד-קטן-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%93-%D7%A7%D7%98%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%93-%D7%A7%D7%98%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>מן הפח אל הפחת</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/מן-הפח-אל-הפחת-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9F-%D7%94%D7%A4%D7%97-%D7%90%D7%9C-%D7%94%D7%A4%D7%97%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>הצירוף 'מן הפח אל הפחת' יסודו בדבריהם של שניים מן הנביאים הגדולים שלנו – ישעיהו וירמיהו. מה משמעות הביטוי אצלם? מדוע נשתנה הביטוי בלשוננו? ומה לכל זה ולסנשו פנשו?
 
 </description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/מן-הפח-אל-הפחת-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/מן-הפח-אל-הפחת-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9F-%D7%94%D7%A4%D7%97-%D7%90%D7%9C-%D7%94%D7%A4%D7%97%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9F-%D7%94%D7%A4%D7%97-%D7%90%D7%9C-%D7%94%D7%A4%D7%97%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>יום העברית: אליעזר בן־יהודה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/פינת-העברית-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>בן־יהודה עבד שעות רבות בעמידה, ומעל המִכְתָּבָה שלו (מילה שחידש) היה תלוי השלט "הזמן קָצֵר והמלאכה מרובה". במִלּוֹן שלו (עוד מילה שחידש) הוא ציין בסימן מיוחד את חידושיו, ובעִתּוֹן שלו (עוד מילה שחידש) השתמש בין השאר כדי להפיצם. ומה חשב ביאליק על חידושיו?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/פינת-העברית-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/פינת-העברית-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ברווזים וברבורים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ברווזים-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A8%D7%95%D7%95%D7%96%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>בארמית של התלמוד הבבלי נזכר העוף 'בר אווזא' – מילולית 'בן האווז'; ובראשית המאה העשרים התקצר הצירוף 'בר אווז' למילה אחת – בַּרְוָז. נשאלת השאלה: אם הברווז הוא "בר אווז", האם הברבור הוא "בר בור"?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ברווזים-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ברווזים-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A8%D7%95%D7%95%D7%96%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A8%D7%95%D7%95%D7%96%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>לקלס</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/לקלס-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A7%D7%9C%D7%A1-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>אם נפתח את המילון בערך קִלֵּס נגלה שאותו הפועל משמש בשתי הוראות מנוגדות לגמרי: (א) לָעַג, בָּז. (ב) שִׁבַּח, הִלֵּל. איך בעצם זה קרה? ומה הקשר ל"רינה"?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/לקלס-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/לקלס-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A7%D7%9C%D7%A1-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A7%D7%9C%D7%A1-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>הצבי וארץ הצבי</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ארץ-צבי-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%A8%D7%A5-%D7%A6%D7%91%D7%99-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>על אף נוכחותו הבולטת של הצבי קל הרגליים בארצנו, סביר שהביטוי "ארץ הצבי" אינו קשור כלל לבעל החיים. מה הקשר לנוסח הכתובה? ומה פירוש דברי דוד המרגשים "הַצְּבִי יִשְׂרָאֵל עַל בָּמוֹתֶיךָ חָלָל"?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ארץ-צבי-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ארץ-צבי-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%A8%D7%A5-%D7%A6%D7%91%D7%99-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%A8%D7%A5-%D7%A6%D7%91%D7%99-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>תרומה – תורמים או מרימים?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/תרומה-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A8%D7%95%D7%9E%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>בלשוננו היום תורמים כסף ותורמים דם, תורמים לחברה ותורמים למדע, וכמובן גם תורמים תרומה. אבל בתנ"ך את התרומה כלל לא 'תרמו' אלא 'הרימו'. מה הקשר בין 'תרומה' ל'הרמה'? ממתי תורמים בעברית ומי התנגדו לכך?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/תרומה-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/תרומה-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A8%D7%95%D7%9E%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A8%D7%95%D7%9E%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פורים: בלשן ובלשנות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/020323-פורים-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/020323-%D7%A4%D7%95%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>כיום אולי נדמה שהמילה בַּלְשָׁן קשורה אל הפועל לִבְלֹשׁ – שהרי הבלשן בולש אחר המילים וגלגוליהן. אבל לאמיתו של דבר מקור המילה אחר לגמרי, והיא קשורה לאחת הדמויות המרכזיות במגילת אסתר.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/020323-פורים-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/020323-פורים-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/020323-%D7%A4%D7%95%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/020323-%D7%A4%D7%95%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>"גֶּפֶן במובן גָּפֶן" – צורות הֶפסק והֶקשר</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/צורת-הפסק-090323.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%A4%D7%A1%D7%A7-090323.mp3</link>
       <description>חינם אין כָּסֶף, עבודת פָּרֶךְ, בימים עָבָרוּ, עקבותיו לא נוֹדָעוּ… בתנ"ך יש מילים מסוימות שמקבלות צורה מיוחדת כאשר הן באות בְּמקום שיש בו הפסקה. והיכן מצויה התופעה הזאת בזמר העברי?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/צורת-הפסק-090323.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/צורת-הפסק-090323.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%A4%D7%A1%D7%A7-090323.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%A4%D7%A1%D7%A7-090323.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>כור מחצבתנו</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/כור-מחצבתו-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%95%D7%A8-%D7%9E%D7%97%D7%A6%D7%91%D7%AA%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>מה מקור הביטוי 'כור מחצבתו' ומה משמעותו? אילו גרסאות חלופיות יש לו? מה הקשר לאברהם אבינו, שרה אימנו וישעיהו הנביא? ואיך הצליח זוהר להפתיע את תמר?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/כור-מחצבתו-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/כור-מחצבתו-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%95%D7%A8-%D7%9E%D7%97%D7%A6%D7%91%D7%AA%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%95%D7%A8-%D7%9E%D7%97%D7%A6%D7%91%D7%AA%D7%95-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פסח: על שם החג</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/פסח-מוכן-לשידור-300323.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%A1%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-300323.mp3</link>
       <description>מקור שמו של החג פֶּסַח נעוץ כידוע בסיפור יציאת מצרים – שבו פָּסַח האל על בתי בני ישראל, וכך ניצלו בכוריהם. מקובל כי לִפְסֹח פירושו 'לדלג', אבל כדאי לדעת שאין זו ההבנה היחידה של הפועל הזה בַּהקשר של יציאת מצרים.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/פסח-מוכן-לשידור-300323.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/פסח-מוכן-לשידור-300323.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%A1%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-300323.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%A1%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-300323.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>יום העצמאות: מדינה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/עצמאות-מוכן-לשידור-.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3</link>
       <description>מה שורשה של המילה מְדִינָה ומה אפשר ללמוד ממנו על המשמעות שלה? מה מציינות מילים מקבילות בלשונות שמיות אחרות? ומה הקשר לעיר אל־מדינה שבערב הסעודית?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/עצמאות-מוכן-לשידור-.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/עצמאות-מוכן-לשידור-.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>אלתור</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/אלתור-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%9C%D7%AA%D7%95%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>הפועל 'לאלתר' נוצר בדרך לא שגרתית ולכן עורר בעבר התנגדות. איזה ביטוי ארמי עמד ברקע היווצרותו? מה משותף לאלתור ולעדכון? ומי התייצב על המקום בלי לחשוב יותר מיום?
 
 </description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/אלתור-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/אלתור-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%9C%D7%AA%D7%95%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%9C%D7%AA%D7%95%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>איך קיבלו המלאכים כנפיים?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/מלאכים-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9C%D7%90%D7%9B%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>מלאכי התנ"ך אינם מכונפים, לעומת יצורים מקראיים שמימיים אחרים: הכרובים והשרפים. איך קיבלו המלאכים כנפיים? ומה בכלל מקורה של המילה מלאך?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/מלאכים-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/מלאכים-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9C%D7%90%D7%9B%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9C%D7%90%D7%9B%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>זכוכית מגדלת</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/זכוכית-מגדלת-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%96%D7%9B%D7%95%D7%9B%D7%99%D7%AA-%D7%9E%D7%92%D7%93%D7%9C%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>מה צורת הרבים של 'זכוכית מגדלת'? מדוע המדפסת נקראת 'מדפסת' ולא 'מדפיסה'? מהי 'פגישה מכרעת' ועד היכן חוכמתנו מגעת?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/זכוכית-מגדלת-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/זכוכית-מגדלת-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%96%D7%9B%D7%95%D7%9B%D7%99%D7%AA-%D7%9E%D7%92%D7%93%D7%9C%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%96%D7%9B%D7%95%D7%9B%D7%99%D7%AA-%D7%9E%D7%92%D7%93%D7%9C%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>לעיתים רחוקות ומימים ימימה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/לעיתים-רחוקות-ומימים-ימימה-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A2%D7%99%D7%AA%D7%99%D7%9D-%D7%A8%D7%97%D7%95%D7%A7%D7%95%D7%AA-%D7%95%D7%9E%D7%99%D7%9E%D7%99%D7%9D-%D7%99%D7%9E%D7%99%D7%9E%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>'לעיתים רחוקות' הוא ביטוי שציין במקורו מרחק גדול של זמן וקיבל לימים משמעות של תדירות. בביטוי 'מימים ימימה' אירע בדיוק התהליך ההפוך.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/לעיתים-רחוקות-ומימים-ימימה-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/לעיתים-רחוקות-ומימים-ימימה-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A2%D7%99%D7%AA%D7%99%D7%9D-%D7%A8%D7%97%D7%95%D7%A7%D7%95%D7%AA-%D7%95%D7%9E%D7%99%D7%9E%D7%99%D7%9D-%D7%99%D7%9E%D7%99%D7%9E%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9C%D7%A2%D7%99%D7%AA%D7%99%D7%9D-%D7%A8%D7%97%D7%95%D7%A7%D7%95%D7%AA-%D7%95%D7%9E%D7%99%D7%9E%D7%99%D7%9D-%D7%99%D7%9E%D7%99%D7%9E%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>בין המצרים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/יז-בתמוז-מעודכן-060723.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%96-%D7%91%D7%AA%D7%9E%D7%95%D7%96-%D7%9E%D7%A2%D7%95%D7%93%D7%9B%D7%9F-060723.mp3</link>
       <description>שלושת השבועות שבין י"ז בתמוז לט' באב מכונים 'ימי בין המצרים'. מה מקור הכינוי הזה? והאם יש לו קשר לביטוי 'ללא מצרים'?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/יז-בתמוז-מעודכן-060723.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/יז-בתמוז-מעודכן-060723.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%96-%D7%91%D7%AA%D7%9E%D7%95%D7%96-%D7%9E%D7%A2%D7%95%D7%93%D7%9B%D7%9F-060723.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%96-%D7%91%D7%AA%D7%9E%D7%95%D7%96-%D7%9E%D7%A2%D7%95%D7%93%D7%9B%D7%9F-060723.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>אבד עליו כלח</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/אבד-עליו-הכלח-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%91%D7%93-%D7%A2%D7%9C%D7%99%D7%95-%D7%94%D7%9B%D7%9C%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>ספר איוב הידוע בלשונו הקשה העניק ללשוננו כמה ביטויים, ובהם 'אבד עליו כלח'. ביטוי זה איננו ברור וניתנו לו פירושים שונים, אך דווקא משום כך הוא הוליד מונח בלשני מעניין.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/אבד-עליו-הכלח-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/אבד-עליו-הכלח-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%91%D7%93-%D7%A2%D7%9C%D7%99%D7%95-%D7%94%D7%9B%D7%9C%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%91%D7%93-%D7%A2%D7%9C%D7%99%D7%95-%D7%94%D7%9B%D7%9C%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>תמימי דעים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/תמימות-דעים-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%9E%D7%99%D7%9E%D7%95%D7%AA-%D7%93%D7%A2%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>כששני אנשים או יותר מסכימים לחלוטין זה עם זה, אנו אומרים שהם תמימי דעים. אך בספר איוב, שממנו ירשנו את הביטוי, 'תמים דעים' הוא דווקא מישהו אחד.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/תמימות-דעים-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/תמימות-דעים-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%9E%D7%99%D7%9E%D7%95%D7%AA-%D7%93%D7%A2%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%9E%D7%99%D7%9E%D7%95%D7%AA-%D7%93%D7%A2%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ט' באב: בכייה לדורות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/תשעה-באב-מוכן-לשידור-270723.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A9%D7%A2%D7%94-%D7%91%D7%90%D7%91-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-270723.mp3</link>
       <description>'בכייה לדורות' הוא כינוי למעשה (או לחוסר מעש) אשר גורם נזק חמור לטווח הארוך, דבר שעתידים להצטער עליו לזמן רב. מה מקור הביטוי ומה הקשר שלו לתשעה באב?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/תשעה-באב-מוכן-לשידור-270723.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/תשעה-באב-מוכן-לשידור-270723.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A9%D7%A2%D7%94-%D7%91%D7%90%D7%91-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-270723.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A9%D7%A2%D7%94-%D7%91%D7%90%D7%91-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-270723.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ביטויי מקומות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ביטויי-מקומות-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%98%D7%95%D7%99%D7%99-%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>היכן נמצא עמק (ה)שווה? מהי הרמה שעליה נאמר "קול ברמה נשמע"? מהו סלע המחלוקת ואיך באים חשבון? על שמות מקומות מן המקרא שהפכו לביטויים בלשוננו.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ביטויי-מקומות-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ביטויי-מקומות-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%98%D7%95%D7%99%D7%99-%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%98%D7%95%D7%99%D7%99-%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>הטלפון שבק חיים?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/שבק-חיים-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%91%D7%A7-%D7%97%D7%99%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>רבים אומרים שהטלפון או המחשב או המצב "שבקו חיים", כאילו שאי פעם היו למכשירים האלה חיים… מהו פירוש הפועל 'שבק'? ומניין קיבלנו את הביטוי הזה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/שבק-חיים-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/שבק-חיים-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%91%D7%A7-%D7%97%D7%99%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%91%D7%A7-%D7%97%D7%99%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>איך קיבל הפיל חדק?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדק-הפיל-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%A7-%D7%94%D7%A4%D7%99%D7%9C-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>כל ילד בימינו יודע שאפו הארוך של הפיל נקרא חדק. אך בהחלט לא כל ילד יודע שהשם הזה של אף הפיל נולד לגמרי בטעות.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדק-הפיל-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדק-הפיל-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%A7-%D7%94%D7%A4%D7%99%D7%9C-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%A7-%D7%94%D7%A4%D7%99%D7%9C-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>עולה בקנה אחד</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/עולה-בקנה-אחד-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%95%D7%9C%D7%94-%D7%91%D7%A7%D7%A0%D7%94-%D7%90%D7%97%D7%93-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>הביטויים 'עולה בקנה אחד' ו'משענת קנה רצוץ' לקוחים שניהם מן המקרא וקשורים לפרעה מלך מצרים. ומה הקשר ללטינית, לתותח לתעלה ולקניון?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/עולה-בקנה-אחד-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/עולה-בקנה-אחד-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%95%D7%9C%D7%94-%D7%91%D7%A7%D7%A0%D7%94-%D7%90%D7%97%D7%93-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A2%D7%95%D7%9C%D7%94-%D7%91%D7%A7%D7%A0%D7%94-%D7%90%D7%97%D7%93-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>השעות הקטנות של הלילה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/השעות-הקטנות-גרסה-שנייה-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A9%D7%A2%D7%95%D7%AA-%D7%94%D7%A7%D7%98%D7%A0%D7%95%D7%AA-%D7%92%D7%A8%D7%A1%D7%94-%D7%A9%D7%A0%D7%99%D7%99%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>מה כל כך קטן בשעות הקטנות של הלילה והאם יש שעות קטנות כאלה גם ביום? מתי שעות הלילה נעשות 'לפנות בוקר', ולמה זה תלוי בנקודת המבט שלנו?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/השעות-הקטנות-גרסה-שנייה-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/השעות-הקטנות-גרסה-שנייה-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A9%D7%A2%D7%95%D7%AA-%D7%94%D7%A7%D7%98%D7%A0%D7%95%D7%AA-%D7%92%D7%A8%D7%A1%D7%94-%D7%A9%D7%A0%D7%99%D7%99%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A9%D7%A2%D7%95%D7%AA-%D7%94%D7%A7%D7%98%D7%A0%D7%95%D7%AA-%D7%92%D7%A8%D7%A1%D7%94-%D7%A9%D7%A0%D7%99%D7%99%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>בר: מילה אחת ומשמעויות רבות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/בר-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>כאשר ניסינו לחשוב איזו מילה עברית היא בעלת המספר הגדול ביותר של משמעויות שאין ביניהן קשר, התייצבה המילה בר במקום הראשון עם לא פחות משש משמעויות.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/בר-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/בר-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A8-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ראש השנה: על שמו של החג</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ראש-השנה-תשפד-מוכן-לשידור-תזמון-4.16.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%AA%D7%A9%D7%A4%D7%93-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.16.mp3</link>
       <description>מדוע בתורה לא נקרא ראש השנה בשם זה? מה הם שמותיו המקראיים ואיזה מהם משמש את הקראים עד היום? ומה פירוש הצירוף 'ראש השנה' בלשונו של הנביא יחזקאל?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ראש-השנה-תשפד-מוכן-לשידור-תזמון-4.16.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ראש-השנה-תשפד-מוכן-לשידור-תזמון-4.16.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%AA%D7%A9%D7%A4%D7%93-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.16.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%AA%D7%A9%D7%A4%D7%93-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.16.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>כבני מרון</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/כבני-מרון-מוכן-לשידור-תזמון-4.43.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%91%D7%A0%D7%99-%D7%9E%D7%A8%D7%95%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.43.mp3</link>
       <description>כיצד שיבוש של מילה לטינית התגלגל לרוב נוסחי המשנה וגם לאחד הפיוטים המזוהים ביותר עם הימים הנוראים – "ונתנה תוקף"?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/כבני-מרון-מוכן-לשידור-תזמון-4.43.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/כבני-מרון-מוכן-לשידור-תזמון-4.43.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%91%D7%A0%D7%99-%D7%9E%D7%A8%D7%95%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.43.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%91%D7%A0%D7%99-%D7%9E%D7%A8%D7%95%D7%9F-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.43.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>סוכות: סוכה, מסך ומוסך</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/סוכה-סכך-ומוסך-מוכן-לשידור-תזמון-4.24.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%95%D7%9B%D7%94-%D7%A1%D7%9B%D7%9A-%D7%95%D7%9E%D7%95%D7%A1%D7%9A-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.24.mp3</link>
       <description>מה הקשר בין סוכה למסך? מה צורת הרבים של מוסך? ומהו "דיר מכוניות"?
 לרגל חג הסוכות – מילים תחת סכך אחד.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/סוכה-סכך-ומוסך-מוכן-לשידור-תזמון-4.24.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/סוכה-סכך-ומוסך-מוכן-לשידור-תזמון-4.24.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%95%D7%9B%D7%94-%D7%A1%D7%9B%D7%9A-%D7%95%D7%9E%D7%95%D7%A1%D7%9A-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.24.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A1%D7%95%D7%9B%D7%94-%D7%A1%D7%9B%D7%9A-%D7%95%D7%9E%D7%95%D7%A1%D7%9A-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.24.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>סוכות: שלוש רגלים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/שלוש-רגלים-מוכן-לשידור-תזמון-4.16.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%9C%D7%95%D7%A9-%D7%A8%D7%92%D7%9C%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.16.mp3</link>
       <description>חג הסוכות הוא אחד משלוש רגלים. או אולי שלושה רגלים? על גלגולי המילה 'רגל', על התפתחותה הוראתה החגיגית ועל הבידול הדקדוקי המעניין שחל בה בספרות חז"ל.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/שלוש-רגלים-מוכן-לשידור-תזמון-4.16.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/שלוש-רגלים-מוכן-לשידור-תזמון-4.16.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%9C%D7%95%D7%A9-%D7%A8%D7%92%D7%9C%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.16.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%9C%D7%95%D7%A9-%D7%A8%D7%92%D7%9C%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%96%D7%9E%D7%95%D7%9F-4.16.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ימי חרבות ברזל: מילים ברוח התקופה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/מילים-ברוח-התקופה-563-ערוך-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%A8%D7%95%D7%97-%D7%94%D7%AA%D7%A7%D7%95%D7%A4%D7%94-563-%D7%A2%D7%A8%D7%95%D7%9A-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>לאחר שבעה באוקטובר הייתה פינת הלשון שלנו בהפסקה – בין השאר בגלל התחושה הקשה שאין מילים:  אין מילים לתאר את גודל האסון, ואין מילים לתאר את גודל הכאב והתדהמה. אבל למילים יש הרבה כוח גם לרפא ולעודד. על המיזם המרגש "עברית שפה שמחברת אותנו".</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/מילים-ברוח-התקופה-563-ערוך-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/מילים-ברוח-התקופה-563-ערוך-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%A8%D7%95%D7%97-%D7%94%D7%AA%D7%A7%D7%95%D7%A4%D7%94-563-%D7%A2%D7%A8%D7%95%D7%9A-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%A8%D7%95%D7%97-%D7%94%D7%AA%D7%A7%D7%95%D7%A4%D7%94-563-%D7%A2%D7%A8%D7%95%D7%9A-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>גדולות ונצורות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/גדולות-ונצורות.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%93%D7%95%D7%9C%D7%95%D7%AA-%D7%95%D7%A0%D7%A6%D7%95%D7%A8%D7%95%D7%AA.mp3</link>
       <description>בימים האלה כולנו זקוקים מאוד לנחמה. לכן נדבר על ביטוי מעניין מתוך שירה הנפלא של רחל שפירא 'נחמה' – 'גדולות ונצורות'. על ביטוי מעניין המשמר עד היום גרסה חלופית ונשכחת של פסוק מן המקרא.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/גדולות-ונצורות.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/גדולות-ונצורות.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%93%D7%95%D7%9C%D7%95%D7%AA-%D7%95%D7%A0%D7%A6%D7%95%D7%A8%D7%95%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%93%D7%95%D7%9C%D7%95%D7%AA-%D7%95%D7%A0%D7%A6%D7%95%D7%A8%D7%95%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>התנדבות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/התנדבות.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA.mp3</link>
       <description>ההתנדבות מוכרת בַּלשון העברית כבר מן התנ"ך, אבל ייתכן מאוד שבמקור "מתנדבים" הם בעצם "מגויסים" – מי שמתייצבים לקריאה של מישהו אחר, ולא אלו שיוזמים בעצמם.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/התנדבות.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/התנדבות.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>מילואים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/מילואים.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%99%D7%9C%D7%95%D7%90%D7%99%D7%9D.mp3</link>
       <description>צווי 8 לא חולקו בתקופת המקרא, אך מילואים היו כבר אז – אם כי בהקשרים אחרים. מה הם ימי המילואים ומהו כרך מילואים? ומי גייס את המילה "מילואים" לצבא ההגנה לישראל?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/מילואים.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/מילואים.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%99%D7%9C%D7%95%D7%90%D7%99%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%99%D7%9C%D7%95%D7%90%D7%99%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>דרגות הצבא</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/דרגות-הצבא.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%93%D7%A8%D7%92%D7%95%D7%AA-%D7%94%D7%A6%D7%91%D7%90.mp3</link>
       <description>שמות הדרגות בצבא – ובהם 'אלוף', 'סגן' ו'נגד' – הם דוגמה מאלפת למתן לבוש עברי מקורי למערכת שלמה של מונחים השאולה מן הלעז.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/דרגות-הצבא.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/דרגות-הצבא.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%93%D7%A8%D7%92%D7%95%D7%AA-%D7%94%D7%A6%D7%91%D7%90.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%93%D7%A8%D7%92%D7%95%D7%AA-%D7%94%D7%A6%D7%91%D7%90.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>מוסיפים תקווה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/תקווה.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A7%D7%95%D7%95%D7%94.mp3</link>
       <description>כבר למן המקרא המילה תקווה משמשת בלשוננו בהוראה 'ציפייה', 'תוחלת'. אבל לצד זה יש שהיא משמשת לעניין אחר לגמרי: לציון 'חוט' או 'פתיל'. מה עניין חוטים לציפיות?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/תקווה.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/תקווה.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A7%D7%95%D7%95%D7%94.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%AA%D7%A7%D7%95%D7%95%D7%94.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ימים של שקט</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ימים-של-שקט.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%9E%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A9%D7%A7%D7%98.mp3</link>
       <description>כולנו מייחלים לימים של שקט. מה הייתה משמעותה המקורית של המילה 'שקט'? האם הדמיון הצלילי בין 'שקט' ל'שתיקה' הוא מקרי בלבד? ומה הקשר לפלמינגו?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ימים-של-שקט.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ימים-של-שקט.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%9E%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A9%D7%A7%D7%98.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%9E%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A9%D7%A7%D7%98.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פורים: מילים פרסיות בלשוננו</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/פורים-524-ערוך-לשידור-21.3.24.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%95%D7%A8%D7%99%D7%9D-524-%D7%A2%D7%A8%D7%95%D7%9A-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-21.3.24.mp3</link>
       <description>מה הקשר בין דת ל־data ובין פרדס ל־paradise? מה המשמעות המקורית של 'פתגם'? ואיזו מילה חידשה האקדמיה ללשון העברית תמורת "צנזורה"?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/פורים-524-ערוך-לשידור-21.3.24.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/פורים-524-ערוך-לשידור-21.3.24.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%95%D7%A8%D7%99%D7%9D-524-%D7%A2%D7%A8%D7%95%D7%9A-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-21.3.24.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%95%D7%A8%D7%99%D7%9D-524-%D7%A2%D7%A8%D7%95%D7%9A-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-21.3.24.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>מחזקים את בארי</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/בארי.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%90%D7%A8%D7%99.mp3</link>
       <description>קיבוץ בארי נקרא על שם ברל כצנלסון – מאבות תנועת העבודה בארץ ישראל ועורכו הראשון של עיתון "דבר", שבארי היה שמו העברי. על הבאר שעוד תימלא שוב מים ותשקוק חיים.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/בארי.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/בארי.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%90%D7%A8%D7%99.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%90%D7%A8%D7%99.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>גיבורים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/גיבורים-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>הגיבור המקראי הוא לוחם בעל כוח, אך חז"ל הוסיפו למילה גם ממד של חוסן נפשי. האם יש קשר בין גיבור לגבר? ואילו מילים נשיות נגזרו מאותו השורש?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/גיבורים-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/גיבורים-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שדרות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/שדרות.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%93%D7%A8%D7%95%D7%AA.mp3</link>
       <description>את המילה שְׂדֵרָה ואת שם העיר שדרות נכון להגות בשי"ן שמאלית, ולא בכדי. פינת הלשון עושה סדר במילה שדרות ומצדיעה לגיבורי העיר וללהקת "שפתיים".</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/שדרות.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/שדרות.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%93%D7%A8%D7%95%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%93%D7%A8%D7%95%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פסח: חג החירות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/חירות.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%99%D7%A8%D7%95%D7%AA.mp3</link>
       <description>בחג הפסח, חג החירות, השתחררו בני ישראל משעבוד מצרים ויצאו אל החופש ואל הדרור. אבל כל מילות החופש האלה אינן נזכרות כלל בסיפור יציאת מצרים שבתורה. מה הקשר בין חירות לשחרור? ומיהו בן חורין?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/חירות.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/חירות.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%99%D7%A8%D7%95%D7%AA.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%99%D7%A8%D7%95%D7%AA.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>פסח: כשר לפסח</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/כשר-לפסח-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%A9%D7%A8-%D7%9C%D7%A4%D7%A1%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>מה הקשר בין כשרות המטבח למכון הכושר? מה משותף למכשיר ולתכשיר? ומה לכל אלו ולכישרון? פינה חגיגית וכשרה לפסח.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/כשר-לפסח-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/כשר-לפסח-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%A9%D7%A8-%D7%9C%D7%A4%D7%A1%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9B%D7%A9%D7%A8-%D7%9C%D7%A4%D7%A1%D7%97-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>נירים</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/נירים.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%99%D7%A8%D7%99%D7%9D.mp3</link>
       <description>הרכיב 'ניר' רווח בשמות יישובים, ובהם ארבעת קיבוצי הנגב המערבי: ניר עם, ניר יצחק, נירים וניר עוז. מה פירוש 'נירו ניר'? ומה משמעות ההבטחה 'למען היות ניר לדוד עבדי כל הימים?'</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/נירים.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/נירים.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%99%D7%A8%D7%99%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A0%D7%99%D7%A8%D7%99%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>יום העצמאות: בין הנצחה לניצחון</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/הנצחה-וניצחון.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A0%D7%A6%D7%97%D7%94-%D7%95%D7%A0%D7%99%D7%A6%D7%97%D7%95%D7%9F.mp3</link>
       <description>הנצחה וניצחון הן שתי מילים מעצבות בזהות הלאומית של מדינת ישראל, והקשר ביניהן אינו רק סמלי. ומה הקשר למנצח התזמורת?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/הנצחה-וניצחון.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/הנצחה-וניצחון.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A0%D7%A6%D7%97%D7%94-%D7%95%D7%A0%D7%99%D7%A6%D7%97%D7%95%D7%9F.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%94%D7%A0%D7%A6%D7%97%D7%94-%D7%95%D7%A0%D7%99%D7%A6%D7%97%D7%95%D7%9F.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>שוב בשלום או שוב לשלום?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/שוב-בשלום.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%95%D7%91-%D7%91%D7%A9%D7%9C%D7%95%D7%9D.mp3</link>
       <description>כיצד מברכים את היוצא לדרך – 'לך לשלום' או 'לך בשלום'? 'שוב לשלום' או 'שוב בשלום'? על גלגולי ברכות אלו ודומותיהן מן המקרא ועד ימינו, ועל ההקפדה שיש המקפידים בעניינן.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/שוב-בשלום.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/שוב-בשלום.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%95%D7%91-%D7%91%D7%A9%D7%9C%D7%95%D7%9D.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A9%D7%95%D7%91-%D7%91%D7%A9%D7%9C%D7%95%D7%9D.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>בשורה – טובה או רעה?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/בשורה-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>האם בשורה חייבת להיות טובה, או שאפשר – לא עלינו – לבשר גם בשורות קשות? מה אפשר ללמוד ממקבילותיה של המילה באכדית ובערבית? ומה הקשר לאיוב, לישעיהו ולשלומי שבת?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/בשורה-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/בשורה-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>טבריה והניקוד העברי</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/טבריה.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%98%D7%91%D7%A8%D7%99%D7%94.mp3</link>
       <description>מדוע יש במערכת הניקוד שלנו גם צירי וגם סגול? גם פתח וגם קמץ? הפעם נצא לביקור קצר בעיר היפה ביותר בעולם מתחת פני הים ונלמד על הבעיה המובנֵית שיש לנו בדקדוק העברי כבר מאות שנים.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/טבריה.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/טבריה.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%98%D7%91%D7%A8%D7%99%D7%94.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%98%D7%91%D7%A8%D7%99%D7%94.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>חרב פיפיות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/6.6חרב-פיפיות-מוכן.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/6.6%D7%97%D7%A8%D7%91-%D7%A4%D7%99%D7%A4%D7%99%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F.mp3</link>
       <description>חרב פיפיות היא חרב המחודדת משני צדדיה, ובהשאלה כינוי לנשק מסוכן העלול לפגוע במשתמש בו. במה שונָה הבנת הביטוי בימינו מן המשמעות המקורית? מה זה 'פיפיות'? עד מתי תאכל חרב? ומה הקשר לפומפייה?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/6.6חרב-פיפיות-מוכן.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/6.6חרב-פיפיות-מוכן.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/6.6%D7%97%D7%A8%D7%91-%D7%A4%D7%99%D7%A4%D7%99%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/6.6%D7%97%D7%A8%D7%91-%D7%A4%D7%99%D7%A4%D7%99%D7%95%D7%AA-%D7%9E%D7%95%D7%9B%D7%9F.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>גן והגנה</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/גן-והגנה-מוכן-לשידור-1.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%9F-%D7%95%D7%94%D7%92%D7%A0%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-1.mp3</link>
       <description>הצבא שלנו קרוי צבא ההגנה לישראל, כי תכליתו להגן עלינו. ועוד יש בשמו גם רמז לארגון ההגנה, שהיה עיקר התשתית של צה"ל. מה הקשר בין גן להגנה? איך הקשר הזה בא לידי ביטוי בסיפור גן העדן? ומניין קיבלנו את גן הילדים?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/גן-והגנה-מוכן-לשידור-1.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/גן-והגנה-מוכן-לשידור-1.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%9F-%D7%95%D7%94%D7%92%D7%A0%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-1.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%92%D7%9F-%D7%95%D7%94%D7%92%D7%A0%D7%94-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8-1.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>יחד ואחד</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/יחד-ואחד.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%97%D7%93-%D7%95%D7%90%D7%97%D7%93.mp3</link>
       <description>בלשוננו היום יחד' הוא ההפך מ'לבד', אך מתברר שבלשון המקרא יש גם 'יחד' שהוא דווקא לבד.
 
 על המילים 'יחד', 'יחדיו', 'לחוד' ו'אחד', וגם על החלופה העברית המשובחת שהציעה חברתה הטובה של נעמי שמר לביטוי העגה "ביחדנס".</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/יחד-ואחד.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/יחד-ואחד.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%97%D7%93-%D7%95%D7%90%D7%97%D7%93.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%99%D7%97%D7%93-%D7%95%D7%90%D7%97%D7%93.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>מכל מלמדיי השכלתי</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/מכל-מלמדיי-השכלתי-014-1.mp3</link>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/מכל-מלמדיי-השכלתי-014-1.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/מכל-מלמדיי-השכלתי-014-1.mp3" length="0" type="audio/mpeg"/>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9B%D7%9C-%D7%9E%D7%9C%D7%9E%D7%93%D7%99%D7%99-%D7%94%D7%A9%D7%9B%D7%9C%D7%AA%D7%99-014-1.mp3</link>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9B%D7%9C-%D7%9E%D7%9C%D7%9E%D7%93%D7%99%D7%99-%D7%94%D7%A9%D7%9B%D7%9C%D7%AA%D7%99-014-1.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%9E%D7%9B%D7%9C-%D7%9E%D7%9C%D7%9E%D7%93%D7%99%D7%99-%D7%94%D7%A9%D7%9B%D7%9C%D7%AA%D7%99-014-1.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>עגה ישראלית מקומית</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ביטויי-משחקים-בארץ-2.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%98%D7%95%D7%99%D7%99-%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-%D7%91%D7%90%D7%A8%D7%A5-2.mp3</link>
       <description>מהי "דופייה"? איזה מאכל זכה לשמות שַׁמְבָּלוּלוּ ויַמְבַּמְבָּם? איך קוראים לבוחן באזור חיפה? ולמה פסי ההאטה בנהרייה מכונים "סבגיות"? על עגות מקומיות מפתיעות ומשעשעות מכל רחבי הארץ.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ביטויי-משחקים-בארץ-2.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ביטויי-משחקים-בארץ-2.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%98%D7%95%D7%99%D7%99-%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-%D7%91%D7%90%D7%A8%D7%A5-2.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%91%D7%99%D7%98%D7%95%D7%99%D7%99-%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-%D7%91%D7%90%D7%A8%D7%A5-2.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>אחים ואחיות</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/אחים-ואחיות-מתוקן.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%97%D7%99%D7%9D-%D7%95%D7%90%D7%97%D7%99%D7%95%D7%AA-%D7%9E%D7%AA%D7%95%D7%A7%D7%9F.mp3</link>
       <description>הכינויים 'אח' ו'אחות' רגילים בפנייה לאחד מהחבר'ה, ואפילו בפנייה לאדם לא מוכר שרוצים ליצור אצלו תחושה של קרבה. שימושי הלשון האלה מושפיעים הן מן הערבית הן מן האנגלית האמריקאית, אך כדאי לדעת שכבר במקרא אָח הוא בהחלט לא רק בן אותו האב או אותה האם.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/אחים-ואחיות-מתוקן.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/אחים-ואחיות-מתוקן.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%97%D7%99%D7%9D-%D7%95%D7%90%D7%97%D7%99%D7%95%D7%AA-%D7%9E%D7%AA%D7%95%D7%A7%D7%9F.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%97%D7%99%D7%9D-%D7%95%D7%90%D7%97%D7%99%D7%95%D7%AA-%D7%9E%D7%AA%D7%95%D7%A7%D7%9F.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>אוצר בלום או אוצר בלוס?</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדש-אוצר-בלום-413.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%A9-%D7%90%D7%95%D7%A6%D7%A8-%D7%91%D7%9C%D7%95%D7%9D-413.mp3</link>
       <description>הביטוי אוֹצָר בָּלוּם משמש בלשוננו לציון אוצר מלא וגדוש, בעיקר בהשאלה, כגון "אוצר בלום של ידע". לכאורה 'אוצר בלום' הוא אוצר סגור, שהרי 'לבלום' פירושו 'לעצור', אך ככל הנראה לא זו הייתה הכוונה המקורית של הביטוי – שאינו אלא שיבוש. ומה הקשר לרבי עקיבא?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדש-אוצר-בלום-413.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/חדש-אוצר-בלום-413.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%A9-%D7%90%D7%95%D7%A6%D7%A8-%D7%91%D7%9C%D7%95%D7%9D-413.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%97%D7%93%D7%A9-%D7%90%D7%95%D7%A6%D7%A8-%D7%91%D7%9C%D7%95%D7%9D-413.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>הלוך ושוב</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/פינת-הלוך-ושוב-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%9C%D7%95%D7%9A-%D7%95%D7%A9%D7%95%D7%91-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>הצירוף "הלוך ושוב" רגיל בלשוננו במשמעות 'אל יעד כלשהו ובחזרה', אך במקורו המקראי שבסיפור המבול יש לו משמעות שונה. ומניין לנו מטבע הלשון "דחה בלך ושוב"?</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/פינת-הלוך-ושוב-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/פינת-הלוך-ושוב-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%9C%D7%95%D7%9A-%D7%95%D7%A9%D7%95%D7%91-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%9C%D7%95%D7%9A-%D7%95%D7%A9%D7%95%D7%91-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>ארחי פרחי</title>
-      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/ארחי-פרחי-מוכן-לשידור.mp3</link>
+      <link>https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%A8%D7%97%D7%99-%D7%A4%D7%A8%D7%97%D7%99-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</link>
       <description>את הצירוף 'ארחי פרחי' ירשנו מן הארמית. אם נעביר אותו לתבנית העברית המקבילה הוא ייעשה ברור מאוד: בארמית 'ארחי פרחי', ובעברית – 'אורחים פורחים'.
 על מקור המילה אוֹרֵחַ, על השינויים שחלו בביטוי 'ארחי פרחי', וגם על התפנית המופלאה והאופטימית שחוללה נעמי שמר באחד הפסוקים הקשים מספר ירמיהו.</description>
-      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/ארחי-פרחי-מוכן-לשידור.mp3</guid>
-      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/ארחי-פרחי-מוכן-לשידור.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%A8%D7%97%D7%99-%D7%A4%D7%A8%D7%97%D7%99-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3</guid>
+      <enclosure url="https://hebrew-academy.org.il/wp-content/uploads/2024/10/%D7%90%D7%A8%D7%97%D7%99-%D7%A4%D7%A8%D7%97%D7%99-%D7%9E%D7%95%D7%9B%D7%9F-%D7%9C%D7%A9%D7%99%D7%93%D7%95%D7%A8.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>אמן</title>
