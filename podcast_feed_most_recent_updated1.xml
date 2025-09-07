@@ -12,7 +12,7 @@
   <copyright>האקדמיה ללשון העברית</copyright>
   <managingEditor>hesket@hebrew-academy.org.il (האקדמיה ללשון העברית)</managingEditor>
   <webMaster>hesket@hebrew-academy.org.il (האקדמיה ללשון העברית)</webMaster>
-  <atom:link href="https://ahl-site.s3.il-central-1.amazonaws.com/media-%2Bhebrew.academy.org.il/baim%2Bliyidey%2Bbitui/podcast_feed_most_recent_updated1.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://hebacademy-beep.github.io/podcast-rss/podcast_feed_most_recent_updated1.xml" rel="self" type="application/rss+xml"/>
   
   <!-- ADD THIS iTunes OWNER SECTION -->
   <itunes:owner>
